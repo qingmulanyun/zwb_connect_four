@@ -27,3 +27,4 @@ Finish it during lunch break, not much time to add more unit tests and more feat
 1. more specs.
 2. add more different level computer players.
 3. add restart feature for Game model.
+4. better render for token. Currently is P1/P2 C1/C2
